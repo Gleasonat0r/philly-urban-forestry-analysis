@@ -1,4 +1,7 @@
+https://gleasalex-png.github.io/philly-urban-forestry-analysis/
+
 Technical Methodology: Spatial Aggregation in PostGIS
+
 To process the 200,000+ tree records, I performed a spatial join and used the WITHIN GROUP clause to extract neighborhood-level statistics from the raw Open Data.
 
 CREATE TABLE neighborhood_tree_analysis AS
