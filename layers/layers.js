@@ -13,12 +13,12 @@ var lyr_NeighborhoodTreeAnalysis_0 = new ol.layer.Vector({
                 style: style_NeighborhoodTreeAnalysis_0,
                 popuplayertitle: 'Neighborhood Tree Analysis',
                 interactive: true,
-    title: 'Neighborhood Tree Analysis<br />\
-    <img src="styles/legend/NeighborhoodTreeAnalysis_0_4.png" /> 0 - 500<br />\
-    <img src="styles/legend/NeighborhoodTreeAnalysis_0_3.png" /> 500 - 1000<br />\
+    title: '<u>Tree Count</u><br />\
+    <img src="styles/legend/NeighborhoodTreeAnalysis_0_0.png" /> 0 - 500<br />\
+    <img src="styles/legend/NeighborhoodTreeAnalysis_0_1.png" /> 500 - 1000<br />\
     <img src="styles/legend/NeighborhoodTreeAnalysis_0_2.png" /> 1000 - 2000<br />\
-    <img src="styles/legend/NeighborhoodTreeAnalysis_0_1.png" /> 2000 - 3000<br />\
-    <img src="styles/legend/NeighborhoodTreeAnalysis_0_0.png" /> 3000 - 5000<br />' });
+    <img src="styles/legend/NeighborhoodTreeAnalysis_0_3.png" /> 2000 - 3000<br />\
+    <img src="styles/legend/NeighborhoodTreeAnalysis_0_4.png" /> 3000 - 5000<br />' });
 
 lyr_NeighborhoodTreeAnalysis_0.setVisible(true);
 var layersList = [lyr_NeighborhoodTreeAnalysis_0];
