@@ -11,7 +11,7 @@ var lyr_NeighborhoodTreeAnalysis_0 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_NeighborhoodTreeAnalysis_0, 
                 style: style_NeighborhoodTreeAnalysis_0,
-                popuplayertitle: 'Neighborhood Tree Analysis',
+                popuplayertitle: 'Trees by Neighborhood',
                 interactive: true,
     title: '<u>Tree Count</u><br />\
     <img src="styles/legend/NeighborhoodTreeAnalysis_0_0.png" /> 0 - 500<br />\
